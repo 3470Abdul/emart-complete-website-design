@@ -1,0 +1,76 @@
+
+#navbar{
+    background-color: #95afc0 !important;
+}
+nav ul li a{
+    font-weight: bold;
+    font-size: 19px;
+    color: gray;
+}
+
+nav ul li a:hover{
+    color: white !important;
+}
+
+#nav-drodown li a{
+    font-weight: bold;
+    font-size: 19px;
+}
+
+#nav-drodown li a:hover{
+    color: black !important;
+}
+
+#nav-drodown{
+    background-color: #dff9fb;
+    border-radius: 12px;
+}
+
+#slider-button{
+    background-color: #95afc0;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+#team-heading{
+    border: 3px solid black;
+    width: 500px;
+    margin: auto;
+    padding: 20px 30px 20px 30px;
+    background-color: #34495e;
+    color: white;
+    border-radius: 50px;
+}
+
+#products-heading{
+    border: 3px solid black;
+    width: 500px;
+    margin: auto;
+    padding: 20px 30px 20px 30px;
+    background-color: #34495e;
+    color: white;
+    border-radius: 50px;
+}
+
+#breadcrumb{
+    background-color: #34495e;
+    line-height: 60px;
+}
+
+#breadcrumb ol li a{
+    color: white;
+}
+
+#breadcrumb ol li{
+    color: white;
+}
+
+#about-links{
+    list-style-type: none;
+}
+
+#about-links li i{
+    color: #34495e;
+    margin-right: 10px;
+}
